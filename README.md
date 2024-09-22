@@ -191,8 +191,6 @@ Once both the frontend and backend are set up, the application can be run in the
 
 - **Authentication**: Add JWT-based authentication for secure user sessions.
 - **Database Integration**: Add MongoDB for persistent data storage.
-- **Real-time Features**: Implement real-time messaging using **Socket.io** for a seamless chat experience.
+  
 
-## **Conclusion**
 
-This system design provides a scalable structure for your ChatApp, utilizing modern technologies that enhance both developer productivity and application performance.
